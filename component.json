@@ -1,0 +1,13 @@
+{
+    "name": "store2",
+    "description": "Better localStorage",
+    "repos": "https://github.com/nbubna/store.git",
+    "main": "store2.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "paths": {
+        "dist": "."
+    },
+    "version": "2.3.0"
+}
